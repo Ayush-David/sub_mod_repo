@@ -1,0 +1,6 @@
+[submodule "sub_mod_repo"]
+	path = sub_mod_repo
+	url = https://github.com/Ayush-David/sub_mod_repo.git
+[submodule "localrepo"]
+	path = localrepo
+	url = https://github.com/Ayush-David/localrepo.git
